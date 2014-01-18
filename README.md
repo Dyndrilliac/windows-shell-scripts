@@ -8,7 +8,7 @@
 
 Batch Scripts
 
-* rebuild_icon_cache.bat: This script kills Windows Explorer, deletes the icon cache, and the reboots Windows.
+* rebuild_icon_cache.bat: This script kills Windows Explorer, deletes the icon cache, and then reboots Windows.
 * reset_default_theme.bat: This script sets Windows 7 to the default visual theme.
 
 Registry Scripts

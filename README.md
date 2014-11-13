@@ -8,8 +8,10 @@
 
 Batch Scripts
 
+* map_user_to_D.bat: This script maps the %USERPROFILE% directory to the drive letter D.
 * rebuild_icon_cache.bat: This script kills Windows Explorer, deletes the icon cache, and then reboots Windows.
 * reset_default_theme.bat: This script sets Windows 7 to the default visual theme.
+* unmap_user_from_D.bat: This script unmaps the %USERPROFILE% directory from the drive letter D.
 
 Registry Scripts
 
